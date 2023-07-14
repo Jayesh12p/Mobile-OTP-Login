@@ -1,1 +1,1 @@
-# NewRepo
+# By accepting the mobile number and IMEI number as input, the API will generate an OTP for the user to verify. The first API will be used to verify the user against the database, while the second API will be used to verify the OTP sent by the user to the server.
